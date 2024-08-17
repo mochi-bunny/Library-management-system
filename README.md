@@ -1,5 +1,5 @@
 #
-Project: Library management system using Mongodb for DBMS
+Project: Library management system using Mongodb and Python for DBMS
 
 #
 Language: Python
